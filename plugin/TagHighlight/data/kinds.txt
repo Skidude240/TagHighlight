@@ -213,6 +213,28 @@ sql:
 	D:CTagsDomain
 	V:CTagsView
 	n:CTagsSynonym
+systemverilog:
+	c:CTagsGlobalConstant
+	e:CTagsEvent
+	f:CTagsFunction
+	m:CTagsModule
+	n:CTagsNetType
+	p:CTagsLocalVariable
+	r:CTagsRegisterType
+	t:CTagsTask
+	b:CTagsStatement
+	A:CTagsObject
+	C:CTagsClass
+	V:CTagsClass
+	E:CTagsEnumeratorName
+	I:CTagsClass
+	M:CtagsStatement
+	K:CTagsDefinedName
+	P:CTagsStatement
+	Q:CTagsStatement
+	R:CTagsStatement
+	S:CTagsStructure
+	T:CTagsType
 tcl:
 	c:CTagsClass
 	m:CTagsMethod
